@@ -31,14 +31,14 @@ Interpreting customer segments for business insights
 
 🧠 Technologies Used
 
-Python 3
+=> Python 3
 
-NumPy
+=>NumPy
 
-Pandas
+=> Pandas
 
-Matplotlib
+=> Matplotlib
 
-Seaborn
+=> Seaborn
 
-Scikit-learn
+=> Scikit-learn
